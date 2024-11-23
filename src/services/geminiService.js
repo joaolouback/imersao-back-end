@@ -5,7 +5,7 @@ const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
 
 export default async function gerarDescricaoComGemini(imageBuffer) {
   const prompt =
-    "Gere uma descrição em português do brasil para a seguinte imagem";
+    "Descreva de forma breve e objetiva a imagem em português do Brasil, focando apenas nos elementos principais sem introduções ou explicações adicionais";
 
   try {
     const image = {

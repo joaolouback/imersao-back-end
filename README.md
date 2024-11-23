@@ -121,7 +121,7 @@ Confira o repositório do front-end aqui:
 
 ---
 
-## 🌟 Demonstração (Opcional)
+## 🌟 Demonstração
 
 https://github.com/user-attachments/assets/43600fbf-72a2-4e1a-8d83-3ea472786617
 
